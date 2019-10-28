@@ -6,7 +6,7 @@ I started to build some scripts around the drone at stuttgart hackathon. Actuall
 
 ## ToDos for tello drone
 
-[x] remote control
-[x] capture front video stream
-[ ] gain access to bottom video stream
-[ ] get bottom altitute sensor
+- [x] remote control
+- [x] capture front video stream
+- [ ] gain access to bottom video stream
+- [ ] get bottom altitute sensor
