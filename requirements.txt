@@ -7,7 +7,7 @@ matplotlib==3.1.1
 numpy==1.17.3
 opencv-contrib-python==4.1.1.26
 opencv-python==4.1.1.26
-pip==19.0.3
+pip==19.2
 pygame==1.9.6
 pyparsing==2.4.2
 pyrealsense2==2.29.0.1124
